@@ -1,0 +1,11 @@
+receptor = receptor.pdbqt
+ligand = 2RC.pdbqt
+center_x = 13.652
+center_y = 5.321
+center_z = 10.401
+size_x = 22.5
+size_y = 29.25
+size_z = 22.5
+exhaustiveness = 64
+num_modes = 100
+energy_range = 5
